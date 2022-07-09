@@ -1,0 +1,24 @@
+RequirementsData VisualizationKevin ZengDependencies:
+
+IDE:
+Microsoft Visual Studio (1.65.2) - Jupyter NotebooksProgramming Language:Python 3.9.11Python Libraries:PlotlyPandas
+
+Dataset Files:
+gas_price.csv
+crude.csv
+inflation.csvPython source codes for all three data visualizations:
+zeng_gasoline_price.ipynb
+zeng_crude_oil_price.ipynb
+zeng_inflation_rate.ipynb
+
+Screenshots for all three visualizations:
+Screenshot_gasoline_price.jpg
+Screenshot_crude_oil_price.jpg
+Screenshot_inflation_rate.jpg
+
+
+
+
+
+
+
